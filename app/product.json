@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1",
+    "name": "Hello Kitty Plush Doll",
+    "stock": 15,
+    "category": "Plush Dolls",
+    "location": "Zone A",
+    "status": "Active",
+    "image": "http://nindam.sytes.net/std6630202180/image/Hello Kitty Plush Doll.jpg"
+  },
+  {
+    "id": "2",
+    "name": "My Melody Soft Toy",
+    "stock": 8,
+    "category": "Plush Dolls",
+    "location": "Zone B",
+    "status": "Active",
+    "image": "http://nindam.sytes.net/std6630202180/image/My Melody Soft Toy.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Cinnamoroll Cute Doll",
+    "stock": 6,
+    "category": "Plush Dolls",
+    "location": "Zone C",
+    "status": "Active",
+    "image": "http://nindam.sytes.net/std6630202180/image/Cinnamoroll Cute Doll.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Kuromi Mini Doll",
+    "stock": 4,
+    "category": "Plush Dolls",
+    "location": "Zone D",
+    "status": "Active",
+    "image": "http://nindam.sytes.net/std6630202180/image/Kuromi Mini Doll.jpg"
+  }
+]
+
